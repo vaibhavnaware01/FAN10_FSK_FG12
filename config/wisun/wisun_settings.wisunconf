@@ -1,0 +1,21 @@
+{
+  "networkName": null,
+  "networkSize": null,
+  "macAddress": null,
+  "dwellInterval": null,
+  "txOutputPower": null,
+  "isDenyList": true,
+  "macList": [],
+  "devicePrivateKey": null,
+  "deviceCertificate": null,
+  "caCertificate": null,
+  "radioConfPath": "../rail/radio_settings.radioconf",
+  "onlyRadioTab": true,
+  "defaultPhy": {
+    "profile": "wisun_fan_1_0",
+    "regulatoryDomain": 5,
+    "fec": false,
+    "operatingClass": 2,
+    "operatingMode": 3
+  }
+}

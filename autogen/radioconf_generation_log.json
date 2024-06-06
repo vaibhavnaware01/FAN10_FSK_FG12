@@ -1,0 +1,122 @@
+[
+  {
+    "channel_name": "WiSunConf_Protocol_Configuration_1-WiSunConf_Channel_Group_1",
+    "result_code": "0",
+    "error_message": "",
+    "logs": [],
+    "cfg_logs": [
+      {
+        "name": "Preamble Binary Pattern",
+        "value": "0101010101010101010101010101010101010101010101010101010101010101"
+      },
+      {
+        "name": "Sync Word Binary Pattern",
+        "value": "1001000001001110"
+      },
+      {
+        "name": "Actual Bandwidth",
+        "value": 135458
+      },
+      {
+        "name": "Desired baudrate",
+        "value": 50000
+      },
+      {
+        "name": "Actual sample frequency",
+        "value": 700000.0421193641
+      },
+      {
+        "name": "FEC enabled flag",
+        "value": 0
+      },
+      {
+        "name": "Base Channel Frequency",
+        "value": 902200000
+      },
+      {
+        "name": "Channel Spacing",
+        "value": 200000
+      }
+    ]
+  },
+  {
+    "channel_name": "WiSunConf_Protocol_Configuration_2-WiSunConf_Channel_Group_2",
+    "result_code": "0",
+    "error_message": "",
+    "logs": [],
+    "cfg_logs": [
+      {
+        "name": "Preamble Binary Pattern",
+        "value": "0101010101010101010101010101010101010101010101010101010101010101"
+      },
+      {
+        "name": "Sync Word Binary Pattern",
+        "value": "1001000001001110"
+      },
+      {
+        "name": "Actual Bandwidth",
+        "value": 143616
+      },
+      {
+        "name": "Desired baudrate",
+        "value": 50000
+      },
+      {
+        "name": "Actual sample frequency",
+        "value": 699927.3992826565
+      },
+      {
+        "name": "FEC enabled flag",
+        "value": 0
+      },
+      {
+        "name": "Base Channel Frequency",
+        "value": 865100000
+      },
+      {
+        "name": "Channel Spacing",
+        "value": 100000
+      }
+    ]
+  },
+  {
+    "channel_name": "WiSunConf_Protocol_Configuration_3-WiSunConf_Channel_Group_3",
+    "result_code": "0",
+    "error_message": "",
+    "logs": [],
+    "cfg_logs": [
+      {
+        "name": "Preamble Binary Pattern",
+        "value": "010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101"
+      },
+      {
+        "name": "Sync Word Binary Pattern",
+        "value": "1001000001001110"
+      },
+      {
+        "name": "Actual Bandwidth",
+        "value": 259422
+      },
+      {
+        "name": "Desired baudrate",
+        "value": 150000
+      },
+      {
+        "name": "Actual sample frequency",
+        "value": 1049965.564235657
+      },
+      {
+        "name": "FEC enabled flag",
+        "value": 0
+      },
+      {
+        "name": "Base Channel Frequency",
+        "value": 865100000
+      },
+      {
+        "name": "Channel Spacing",
+        "value": 200000
+      }
+    ]
+  }
+]
